@@ -1,4 +1,14 @@
 # Odin recipes
-Preface: This is my first TOP project. The intention is to set up a website that consist of multiple webpages, each of them containing a recipe. I will implement the acquired knowledge on the use of command line, Git and HTML. When finished, I will write my impressions in the "Conclusions" paragraph of the README.md file.
+
+## What is this?
+This is my first The Odin Project project. The intention is to build a website with multiple recipes.
+
+Knowledge needed:
+- HTML
+- Git
+- Command line
 
 Conclusions:
+- Basic HTML functions were easily comprehended.
+- I still have to internalise the usage of git; when, what and how to commit.
+- My translation of traditional Slovenian recipes to English might be slightly awkward and the recipes choice was probably unnecessary complication, yet it gave my website relatable content.
