@@ -1,0 +1,23 @@
+h1 {
+    margin:40px;
+    font-family: "Brush Script MT", Garamond, sans-serif;
+}
+a {
+    font-family: "Brush Script MT", Garamond, sans-serif;
+    color:rgba(218, 16, 67, 0.973);
+    background-color: rgba(224, 198, 177, 0.932);
+    border: 5px black dotted;
+    padding: 20px;
+    display: block;
+    width: 250px;
+}
+
+potica {
+    position: static;
+}
+
+cmoki {
+    position: relative;
+    top: -20px;
+    left: 20px
+}
